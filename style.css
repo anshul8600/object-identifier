@@ -1,0 +1,13 @@
+body{background-color:plum}
+.heading{
+width: 100%;
+font-size: 30px;
+color: purple;
+font-weight: bold;
+font-style: Comic;
+box-shadow:15px 15px 30px black
+}
+#webcam{border:5px solid green;height:300px;width:300px}
+#result{border:5px solid greenyellow;height:300px;width:300px}
+#resultname,#resultaccuracy{font-size:30px;font-weight:bold;color:red}
+label{font-size:18px;background-color:hotpink;color:white;padding:10px;border:5px dotted yellow}
